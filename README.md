@@ -4,12 +4,17 @@
 - GENERAL:
   - https://www.youtube.com/results?search_query=java+module+system
   - https://dzone.com/articles/java-9-modules-introduction-part-1
+  - https://app.pluralsight.com/library/courses/java-9-modularity-first-look/table-of-contents
 - CMD:
   - https://jrebel.com/rebellabs/java-9-modules-cheat-sheet/
   - https://openjdk.java.net/projects/jigsaw/quick-start
 - GRADLE: 
   - https://github.com/java9-modularity/gradle-modules-plugin
   - https://guides.gradle.org/building-java-9-modules/
+  
+## Goals:
+- [] A
+- [] B
 
 ```
 package use;
