@@ -13,8 +13,8 @@
   - https://guides.gradle.org/building-java-9-modules/
   
 ## Goals:
-- [] A
-- [] B
+- [ ] A
+- [ ] B
 
 ```
 package use;
