@@ -1,5 +1,9 @@
 # java9features
 
+## Materials:
+- https://www.youtube.com/results?search_query=java+module+system
+- https://dzone.com/articles/java-9-modules-introduction-part-1
+- https://jrebel.com/rebellabs/java-9-modules-cheat-sheet/
 
 ```
 package use;
