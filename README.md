@@ -11,6 +11,7 @@
 - GRADLE: 
   - https://github.com/java9-modularity/gradle-modules-plugin
   - https://guides.gradle.org/building-java-9-modules/
+  - https://www.youtube.com/watch?v=2K3xmmQb3VU
   
 ## Goals:
 - [ ] A
